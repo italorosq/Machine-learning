@@ -1,6 +1,6 @@
 # 🫀 Predição de Mortalidade em Insuficiência Cardíaca
 
-Este repositório contém o projeto final da disciplina de **Aprendizagem de Máquina**.
+Este repositório contém os projetos desenvolvidos na disciplina de **Aprendizagem de Máquina**.
 
 O objetivo central é desenvolver e comparar modelos preditivos (**clusterização** . **Random Forest** e **MLP**) para identificar o risco de mortalidade em pacientes com insuficiência cardíaca, abordando o problema crítico de desbalanceamento de classes em dados médicos.
 
