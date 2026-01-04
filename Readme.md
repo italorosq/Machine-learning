@@ -44,7 +44,7 @@ O trabalho foi dividido em três entregas progressivas, onde cada notebook corre
     * **Diagnóstico:**
     
 
-### 📍 Relatório 3: Otimização e Balanceamento (Final)
+### 📍 Relatório 3: Otimização via Evolução Diferencial
 * **Arquivo:** `Notebooks desenvolvidos/codigo 3.ipynb`
 * **Foco:** Correção de viés, otimização heurística e validação robusta.
 * **Atividades Principais:**
